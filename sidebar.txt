@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xmy:home|Door43 (xmy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xmy|d43-xmy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xmy/archive/master.zip|d43-xmy.zip]]
+
+**Recent Changes**
+{{changes>ns = xmy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xmy|Ethnologue data]]
+
